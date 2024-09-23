@@ -3,7 +3,7 @@
 #### Anagha Shenoy &#183; August 5, 2024
 - - -
 
-This case study was completed as part of the B-BRITE Computational Bootcamp (July 2024), which was led by Dr. Olga Nikolova and Dr. Zheng Xia.
+This case study was completed as part of the B-BRITE Computational Bootcamp (July 2024) led by Dr. Olga Nikolova and Dr. Zheng Xia.
 
 ## Background
 
